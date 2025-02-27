@@ -1,0 +1,2 @@
+@EndUserText.label: 'StartUp Name'
+define type ZBS_ST_Name: abap.char(50)

@@ -1,0 +1,14 @@
+@EndUserText.label: 'StartUp Ranking'
+define type ZBS_SE_Ranking : abap.char(1) enum
+{
+  @EndUserText.label: 'Unranked'
+  Unranked = initial;
+  @EndUserText.label: 'Premium'
+  Premium  = 'S';
+  @EndUserText.label: 'Very good'
+  VeryGood = 'A';
+  @EndUserText.label: 'Good'
+  Good     = 'B';
+  @EndUserText.label: 'No chance'
+  NoChance = 'F';
+}

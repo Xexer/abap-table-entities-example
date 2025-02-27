@@ -1,0 +1,2 @@
+@EndUserText.label: 'Employee ID'
+define type ZBS_ST_EmployeeID: abap.char(15);

@@ -1,0 +1,2 @@
+@EndUserText.label: 'StartUp UUID'
+define type ZBS_ST_StartUpID: sysuuid_x16
